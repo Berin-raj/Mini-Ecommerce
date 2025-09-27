@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality over-ear headphones with noise cancellation and 20-hour battery life.",
+    "price": 2999.99,
+    "currency": "INR",
+    "category": "Electronics",
+    "brand": "SoundMax",
+    "stock": 120,
+    "rating": 4.5,
+    "images": [
+      "https://example.com/images/headphones1.jpg",
+      "https://example.com/images/headphones2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cotton T-Shirt",
+    "description": "Comfortable and breathable cotton t-shirt available in multiple colors.",
+    "price": 499.00,
+    "currency": "INR",
+    "category": "Clothing",
+    "brand": "StyleWear",
+    "stock": 250,
+    "rating": 4.2,
+    "images": [
+      "https://example.com/images/tshirt1.jpg",
+      "https://example.com/images/tshirt2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Eco-friendly, reusable water bottle with a 1-liter capacity.",
+    "price": 799.50,
+    "currency": "INR",
+    "category": "Home & Kitchen",
+    "brand": "EcoHydro",
+    "stock": 80,
+    "rating": 4.8,
+    "images": [
+      "https://example.com/images/bottle1.jpg",
+      "https://example.com/images/bottle2.jpg"
+    ]
+  }
+]
